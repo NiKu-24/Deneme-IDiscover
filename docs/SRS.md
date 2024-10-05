@@ -32,7 +32,7 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 9. [Use Case Diagram](#9-Use-Case-Diagram)
 10. [Technology Stack](#10-Technology-Stack)
 11. [Specific Requirements](#11-Specific-Requirements)
-    - [Functionality](Functionality)
+    - [Functionality](#111-Functionality)
     - Usability
     - Reliability
     - Performance
