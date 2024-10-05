@@ -20,7 +20,7 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 # Software Requirements Specification (SRS)
 
 ## Table of Contents
-- [Table of contents](#table-of-contents)
+
 - [Introduction](#1-introduction)
 - [Purpose](#2-Purpose)
 - [Scope](#3-Scope)
