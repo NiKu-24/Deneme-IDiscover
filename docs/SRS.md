@@ -32,19 +32,20 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 9. [Use Case Diagram](#9-Use-Case-Diagram)
 10. [Technology Stack](#10-Technology-Stack)
 11. [Specific Requirements](#11-Specific-Requirements)
+    
     11.1 [Functionality](#111-Functionality)
-    11.2 Usability
-    11.3 Reliability
-    11.4 Performance
-    11.5 Supportability
-12. Design Constraints
-13. Online User Documentation and Help System Requirements
-14. Purchased Components
-15. Interfaces
-16. Licensing Requirements
-17. Legal, Copyright, and Other Notices
-18. Applicable Standards
-19. Supporting Information
+    11.2 [Usability](#112-Usability)
+    11.3 [Reliability](#113-Reliability)
+    11.4 [Performance](#114-Performance)
+    11.5 [Supportability](#115-Supportability)
+12. [Design Constraints](#12-Design-Constraints)
+13.[Online User Documentation and Help System Requirements](#13-Online-User-Documentation-and-Help-System-Requirements)
+14. [Purchased Components](#14-Purchased-Components)
+15. [Interfaces](#15-Interfaces)
+16. [Licensing Requirements](#16-Licensing-Requirements)
+17. [Legal, Copyright, and Other Notices](#17-Legal-Copyright-and-Other-Notices)
+18. [Applicable Standards](#18-Applicable-Standards)
+19. [Supporting Information](#19-Supporting-Information)
 
 ## 1. Introduction
 This document provides a detailed Software Requirements Specification (SRS) for the development of a mobile application designed to offer users a seamless experience with three main modes: FLOW, ORGANIZED, and FUN.
@@ -127,19 +128,19 @@ To create a mobile application that provides users with a seamless and engaging 
 6. **Admin Functions**
    - Admins can manage users, update content, view analytics, and configure settings.
 
-### Usability
+### 11.2. Usability
 - The app should have an intuitive and user-friendly interface.
 - Provide accessibility features for users with disabilities.
 
-### Reliability
+### 11.3 Reliability
 - The app should have 99.9% uptime.
 - Implement regular backups of user data.
 
-### Performance
+### 11.4 Performance
 - The app should load within 3 seconds.
 - The app should handle up to 10,000 concurrent users.
 
-### Supportability
+### 11.5 Supportability
 - The app should be modular to facilitate updates and maintenance.
 - Provide comprehensive documentation for developers.
 
