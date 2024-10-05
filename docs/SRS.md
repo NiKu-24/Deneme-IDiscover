@@ -22,9 +22,9 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 ## Table of Contents
 - [Table of contents](#table-of-contents)
 - [Introduction](#1-introduction)
-2. Purpose
-3. Scope
-4. Definitions, Acronyms, and Abbreviations
+- [Purpose](#2-Purpose)
+- [Scope](#3-Scope)
+- [Definitions, Acronyms, and Abbreviations](#4-Definitions, Acronyms, and Abbreviations)
 5. References
 6. Overview
 7. Overall Description
