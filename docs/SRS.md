@@ -24,10 +24,10 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 - [Introduction](#1-introduction)
 - [Purpose](#2-Purpose)
 - [Scope](#3-Scope)
-- [Definitions, Acronyms, and Abbreviations](#4-Definitions,Acronyms,andabbreviations)
+- [Definitions, Acronyms, and Abbreviations](#4-Definitions,-Acronyms,and-abbreviations)
 - [References](#5-References)
 - [Overview](#6-Overview)
-- [Overall Description](#7-OverallDescription)
+- [Overall Description](#7-Overall-Description)
 8. Vision
 9. Use Case Diagram
 10. Technology Stack
