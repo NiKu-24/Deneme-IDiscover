@@ -24,7 +24,7 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 - [Introduction](#1-introduction)
 - [Purpose](#2-Purpose)
 - [Scope](#3-Scope)
-- [Definitions, Acronyms, and Abbreviations](#4-Definitions,-Acronyms,-and-abbreviations)
+- [Definitions, Acronyms, and Abbreviations](#4-Definitions,-Acronyms,-and-Abbreviations)
 - [References](#5-References)
 - [Overview](#6-Overview)
 - [Overall Description](#7-Overall-Description)
