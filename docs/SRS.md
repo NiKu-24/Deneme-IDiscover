@@ -1,7 +1,27 @@
+## Promise of Inspiration
+
+The iDiscover Project endeavors to harmoniously merge creativity and technology, fostering innovative solutions that inspire exploration and learning. We firmly believe in the power of collaboration and the potential of every idea to bring about a meaningful impact.
+
+### Goals
+
+1. **User-Centric Design:** Develop an application that prioritizes user experience and intuitive navigation.
+2. **Sustainable Practices:** Incorporate eco-friendly practices in project development and operations.
+3. **Collaborative Innovation:** Partner with creative minds and organizations to enhance the project's offerings.
+
+### Get Involved
+
+Join our mission to inspire and explore! Whether you're a developer, designer, or enthusiast, there are numerous ways to contribute to the iDiscover APP.
+
+- **Collaborate:** Work with us on exciting projects.
+- **Share Ideas:** Contribute your thoughts and suggestions.
+- **Follow Our Journey:** Stay updated on our progress and upcoming events.
+
+
 # Software Requirements Specification (SRS)
 
 ## Table of Contents
-1. Introduction
+- [Table of contents](#table-of-contents)
+- [Introduction](#1-introduction)
 2. Purpose
 3. Scope
 4. Definitions, Acronyms, and Abbreviations
