@@ -28,7 +28,7 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 - [References](#5-References)
 - [Overview](#6-Overview)
 - [Overall Description](#7-Overall-Description)
-8. Vision
+8. [Vision](#8-Vision)
 9. Use Case Diagram
 10. Technology Stack
 11. Specific Requirements
