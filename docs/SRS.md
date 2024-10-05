@@ -29,11 +29,11 @@ This application will allow users to explore their current location, plan trips,
 ## Overall Description
 
 ### Product Perspective
-The app is a standalone mobile application that will be available on both iOS and Android platforms. It will integrate with various external services such as social media platforms, GPS, and public transport APIs.
+The app is a standalone mobile application available on both iOS and Android platforms. It will integrate with various external services such as social media platforms, GPS, and public transport APIs.
 
 ### Product Functions
 - **FLOW Mode**: Allows users to explore their current location with an interactive map, set durations, specify activities, and connect with friends.
-- **ORGANIZED Mode**: Enables users to plan trips in advance, select dates and times, choose activities, and make reservations.
+- **ORGANIZED Mode**: Enables users to plan trips, select dates and times, choose activities, and make reservations.
 - **FUN Mode**: Provides a treasure hunt experience, touristic mode, and learning options with rewards for achievements.
 
 ### User Classes and Characteristics
@@ -114,14 +114,14 @@ The app will operate on mobile devices running iOS and Android operating systems
   - Users can see who is around them, read feedback, send messages, and receive notifications about benefits.
 
 ### ORGANIZED Mode
-- **Description**: Enables users to plan trips and activities in advance.
+- **Description**: Enables users to plan trips and activities.
 - **Functional Requirements**:
   - Users can set time and duration, specify activities, choose program alternatives, make changes, fix programs, see event options, buy passes and tickets, and make reservations.
 
 ### FUN Mode
 - **Description**: Offers a treasure hunt experience and other fun activities.
 - **Functional Requirements**:
-  - Users can specify activities, set durations, choose transportation, select road alternatives, choose levels, engage in touristic and learning modes, participate in treasure hunts, share achievements and photos, earn points and badges, and receive free gifts.
+  - Users can specify activities, set durations, choose transportation, select road alternatives, choose levels, engage in touristic and learning modes, participate in treasure hunts, share achievements and photos, earn points and badges, and receive gifts.
 
 ### Admin Functions
 - **Description**: Provides administrative functions for managing the app.
