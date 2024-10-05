@@ -21,18 +21,18 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 
 ## Table of Contents
 
-- [Introduction](#1-introduction)
-- [Purpose](#2-Purpose)
-- [Scope](#3-Scope)
-- [Definitions, Acronyms, and Abbreviations](#4-Definitions-Acronyms-and-Abbreviations)
-- [References](#5-References)
-- [Overview](#6-Overview)
-- [Overall Description](#7-Overall-Description)
+1. [Introduction](#1-introduction)
+2. [Purpose](#2-Purpose)
+3. [Scope](#3-Scope)
+4. [Definitions, Acronyms, and Abbreviations](#4-Definitions-Acronyms-and-Abbreviations)
+5. [References](#5-References)
+6. [Overview](#6-Overview)
+7. [Overall Description](#7-Overall-Description)
 8. [Vision](#8-Vision)
-9. Use Case Diagram
-10. Technology Stack
-11. Specific Requirements
-    - Functionality
+9. [Use Case Diagram](#9-Use-Case-Diagram)
+10. [Technology Stack](#10-Technology-Stack)
+11. [Specific Requirements](#11-Specific-Requirements)
+    - [Functionality](Functionality)
     - Usability
     - Reliability
     - Performance
