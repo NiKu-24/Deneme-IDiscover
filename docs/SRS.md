@@ -32,11 +32,11 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 9. [Use Case Diagram](#9-Use-Case-Diagram)
 10. [Technology Stack](#10-Technology-Stack)
 11. [Specific Requirements](#11-Specific-Requirements)
-    11-A [Functionality](#11A-Functionality)
-    11-B Usability
-    11-C Reliability
-    11-D Performance
-    11-E Supportability
+    11.1 [Functionality](#111-Functionality)
+    11.2 Usability
+    11.3 Reliability
+    11.4 Performance
+    11.5 Supportability
 12. Design Constraints
 13. Online User Documentation and Help System Requirements
 14. Purchased Components
@@ -107,7 +107,7 @@ To create a mobile application that provides users with a seamless and engaging 
 
 ## 11. Specific Requirements
 
-### 11-A. Functionality
+### 11.1. Functionality
 1. **User Profile Management**
    - Users can create and manage their profiles, including setting user names, passwords, emails, avatars, notification settings, and preferences.
 
