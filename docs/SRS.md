@@ -104,7 +104,8 @@ The app will operate on mobile devices running iOS and Android operating systems
 To create a mobile application that provides users with a seamless and engaging experience for exploring, planning, and participating in activities.
 
 ## 9. Use Case Diagram
-![IDiscover - USE CASE DIAGRAM](https://github.com/user-attachments/assets/dc2164d1-3b88-44fc-9684-986e4d9acf5c)
+![UC](https://miro.com/app/board/uXjVLWLn5GU=/?moveToWidget=3458764602303914138&cot=14)
+
 ## 10. Technology Stack
 - **Frontend**: React Native
 - **Backend**: Node.js, Express
