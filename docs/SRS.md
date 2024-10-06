@@ -104,8 +104,7 @@ The app will operate on mobile devices running iOS and Android operating systems
 To create a mobile application that provides users with a seamless and engaging experience for exploring, planning, and participating in activities.
 
 ## 9. Use Case Diagram
-[https://miro.com/app/board/uXjVLZHGgEs=/?moveToWidget=3458764602295055712&cot=14
-](https://private-user-images.githubusercontent.com/182211371/373950227-ad039bd7-f3e0-4385-8984-34137aeda9d2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgyMjE1NjYsIm5iZiI6MTcyODIyMTI2NiwicGF0aCI6Ii8xODIyMTEzNzEvMzczOTUwMjI3LWFkMDM5YmQ3LWYzZTAtNDM4NS04OTg0LTM0MTM3YWVkYTlkMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwNlQxMzI3NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYjk4MTM0YTRiZTQxZTE4ZmY5ODYyOTZjNjU3MGYyYTU5YWFkZWUwOWQwM2RkMTQ2YWQ2MTgyOGUxYmMzYTQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Sa4QFsbCxAU8HBNyJ3TZw_Yt2B2dNSUXDwmqmbpBN3k)
+[ ](https://github.com/NiKu-24/Deneme-IDiscover/issues/1#issue-2568660737)
 ## 10. Technology Stack
 - **Frontend**: React Native
 - **Backend**: Node.js, Express
