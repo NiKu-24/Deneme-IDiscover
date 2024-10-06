@@ -88,7 +88,7 @@ The app is a standalone mobile application available on both iOS and Android pla
 ### User Classes and Characteristics
 - **Primary User**: General users who want to explore, plan, and engage in activities.
 - **Secondary User**: Admins who manage content, users, and settings.
-
+https://miro.com/app/board/uXjVLZHGgEs=/?moveToWidget=3458764602295055712&cot=14
 ### Operating Environment
 The app will operate on mobile devices running iOS and Android operating systems.
 
