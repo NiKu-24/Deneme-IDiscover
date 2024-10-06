@@ -88,7 +88,7 @@ The app is a standalone mobile application available on both iOS and Android pla
 ### User Classes and Characteristics
 - **Primary User**: General users who want to explore, plan, and engage in activities.
 - **Secondary User**: Admins who manage content, users, and settings.
-https://miro.com/app/board/uXjVLZHGgEs=/?moveToWidget=3458764602295055712&cot=14
+
 ### Operating Environment
 The app will operate on mobile devices running iOS and Android operating systems.
 
@@ -104,7 +104,7 @@ The app will operate on mobile devices running iOS and Android operating systems
 To create a mobile application that provides users with a seamless and engaging experience for exploring, planning, and participating in activities.
 
 ## 9. Use Case Diagram
-*To be developed based on specific user interactions and scenarios.*
+https://miro.com/app/board/uXjVLZHGgEs=/?moveToWidget=3458764602295055712&cot=14
 
 ## 10. Technology Stack
 - **Frontend**: React Native
