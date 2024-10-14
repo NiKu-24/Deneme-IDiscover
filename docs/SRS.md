@@ -54,7 +54,7 @@ Join our mission to inspire and explore! Whether you're a developer, designer, o
 19. [Supporting Information](#19-Supporting-Information)
 
 ## 1. Introduction
-This document provides a detailed Software Requirements Specification (SRS) for the development of a mobile application designed to offer users a seamless experience with three main modes: FLOW, ORGANIZED, and FUN.
+This document provides a detailed Software Requirements Specification (SRS) for the development of a mobile application designed to offer users a seamless experience with three main modes: FLOW, PLAN, and FUN.
 
 ## 2. Purpose
 The purpose of this document is to outline the requirements for the mobile application, ensuring a clear understanding of its functionalities and constraints.
@@ -82,7 +82,7 @@ The app is a standalone mobile application available on both iOS and Android pla
 
 ### Product Functions
 - **FLOW Mode**: Allows users to explore their current location with an interactive map, set durations, specify activities, and connect with friends.
-- **ORGANIZED Mode**: Enables users to plan trips, select dates and times, choose activities, and make reservations.
+- **PLAN Mode**: Enables users to plan trips, select dates and times, choose activities, and make reservations.
 - **FUN Mode**: Provides a treasure hunt experience, touristic mode, and learning options with rewards for achievements.
 
 ### User Classes and Characteristics
@@ -119,13 +119,13 @@ To create a mobile application that provides users with a seamless and engaging 
    - Users can create and manage their profiles, including setting user names, passwords, emails, avatars, notification settings, and preferences.
 
 2. **Location and Mode Selection**
-   - Users can select their current location and choose between FLOW, ORGANIZED, and FUN modes.
+   - Users can select their current location and choose between FLOW, PLAN, and FUN modes.
 
 3. **FLOW Mode**
    - Users can specify activities, set durations, choose transportation, and view road alternatives.
    - Users can see who is around them, read feedback, send messages, and receive notifications about benefits.
 
-4. **ORGANIZED Mode**
+4. **PLAN Mode**
    - Users can set time and duration, specify activities, choose program alternatives, make changes, fix programs, see event options, buy passes and tickets, and make reservations.
 
 5. **FUN Mode**
@@ -167,7 +167,7 @@ To create a mobile application that provides users with a seamless and engaging 
 - **Profile Management UI**: Interface for users to manage their profiles.
 - **Mode Selection UI**: Interface for selecting location and mode.
 - **FLOW Mode UI**: Interface for exploring locations and activities.
-- **ORGANIZED Mode UI**: Interface for planning trips and activities.
+- **PLAN Mode UI**: Interface for planning trips and activities.
 - **FUN Mode UI**: Interface for engaging in fun activities and treasure hunts.
 - **Admin UI**: Interface for administrative functions.
 
