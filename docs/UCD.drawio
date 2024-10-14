@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="g9OxdlajLM54Hv00j9Ij">
-    <mxGraphModel dx="4324" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3654" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,10 @@
         <mxCell id="UCpMCh0Ry8PBwQhmgm97-20" value="Send Messages" style="ellipse;whiteSpace=wrap;html=1;" parent="UCpMCh0Ry8PBwQhmgm97-16" vertex="1">
           <mxGeometry x="355" y="50" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UCpMCh0Ry8PBwQhmgm97-21" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;ORGANIZED&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="UCpMCh0Ry8PBwQhmgm97-15" vertex="1">
-          <mxGeometry x="15" y="260" width="460" height="260" as="geometry" />
+        <mxCell id="UCpMCh0Ry8PBwQhmgm97-21" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;PLAN&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="UCpMCh0Ry8PBwQhmgm97-15" vertex="1">
+          <mxGeometry x="15" y="260" width="460" height="260" as="geometry">
+            <mxRectangle x="15" y="260" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UCpMCh0Ry8PBwQhmgm97-22" value="Set Time and Duration" style="ellipse;whiteSpace=wrap;html=1;" parent="UCpMCh0Ry8PBwQhmgm97-21" vertex="1">
           <mxGeometry x="18" y="47" width="100" height="50" as="geometry" />
