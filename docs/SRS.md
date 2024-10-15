@@ -104,7 +104,7 @@ The app will operate on mobile devices running iOS and Android operating systems
 To create a mobile application that provides users with a seamless and engaging experience for exploring, planning, and participating in activities.
 
 ## 9. Use Case Diagram
-![UCD drawio](https://github.com/user-attachments/assets/364b0291-5901-4cad-be56-880522e2e94e)
+![UCD drawio](https://github.com/NiKu-24/Deneme-IDiscover/blob/main/docs/assets/UCD.jpg)
 
 ## 10. Technology Stack
 - **Frontend**: React Native
